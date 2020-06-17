@@ -1,2 +1,2 @@
 # Algorithm-Learning
-- BinarySearch 二分查找[binarySearch.md]
+- [BinarySearch 二分查找](binarySearch.md)
