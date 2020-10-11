@@ -15,5 +15,6 @@
 
 - ### 算法图解
 
-  [BinarySearch 二分查找](GrokkingAlgorithms/binarySearch.md)
+  [BinarySearch 二分查找](GrokkingAlgorithms/binarySearch.md)   
+  [DijkstraTravarsal 最短路径](GrokkingAlgorithms/djkstraTravarsal.md)
 
